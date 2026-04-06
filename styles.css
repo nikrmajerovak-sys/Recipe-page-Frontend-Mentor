@@ -26,14 +26,15 @@ body {
     justify-content: center;
     align-items: center;
     padding: 3rem;
-    min-width: 300px;
+   
 }
 
 main {
-    max-width: 70%;
+    max-width: 900px;
     background-color: var(--white);
     padding: 1.5rem;
     border-radius: 20px;
+     min-width: 300px;
 }   
 
 .intro-img {
