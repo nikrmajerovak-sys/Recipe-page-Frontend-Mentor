@@ -26,6 +26,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 3rem;
+    min-width: 300px;
 }
 
 main {
