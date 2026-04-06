@@ -17,5 +17,5 @@ Build out this recipe page following the design provided by Frontend Mentor. Use
 - Use of CSS variables for easy theming
 
 ### Links
-- Live Site URL: [https://yourusername.github.io/recipe-page](https://yourusername.github.io/recipe-page)  
+- Live Site URL: https://nikrmajerovak-sys.github.io/Recipe-page-Frontend-Mentor/
 - Frontend Mentor Challenge: [Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-CEz9LD8f0)
